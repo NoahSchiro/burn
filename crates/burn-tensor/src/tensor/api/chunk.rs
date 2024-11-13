@@ -8,7 +8,7 @@ use alloc::vec::Vec;
 ///
 /// * `tensor` - The tensor.
 /// * `chunks` - The number of chunks to be produced
-/// * `times` - The dimension along which the tensor will be split.
+/// * `dim` - The dimension along which the tensor will be split.
 ///
 /// # Returns
 ///
